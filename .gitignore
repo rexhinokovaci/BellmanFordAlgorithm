@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# JetBrains / PyCharm project settings (per-machine)
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

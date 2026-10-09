@@ -1,6 +1,6 @@
 # Bellman-Ford & Data Structures in Python
 
-Python implementations of the **Bellman-Ford single-source shortest-path algorithm** and several core data structures (binary trees, binary search trees, hash tables), written for a Computer Science Fundamentals course at the Canadian Institute of Technology.
+Python implementations of the **Bellman-Ford single-source shortest-path algorithm** and several core data structures (binary trees, binary search trees, hash tables), written as university coursework (CSF) at the Canadian Institute of Technology.
 
 ## Contents
 
